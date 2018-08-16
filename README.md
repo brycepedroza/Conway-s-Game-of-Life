@@ -7,6 +7,8 @@ Conway’s Game of Life is a zero-player game that follows a simple set of rules
 4. A dead cell with 3 neighbors transforms into a living cell. 
 
 Here is some more information on the Conway's Game of Life and Cellular Automatons in general.
+
 https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+
 https://en.wikipedia.org/wiki/Cellular_automaton#Rule_space
 
